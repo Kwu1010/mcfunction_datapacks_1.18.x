@@ -1,3 +1,10 @@
+#####################################################################################################################################################
+#
+# Play the left hand of the Outerwilds OST song
+# Helper function for outerwild.mcfunction
+#
+#####################################################################################################################################################
+
 scoreboard objectives add outerwildlefttime dummy
 scoreboard players set @e[tag=!outerwildleft] outerwildlefttime 0
 scoreboard players add @e[tag=outerwildleft] outerwildlefttime 1
