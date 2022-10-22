@@ -1,6 +1,6 @@
 {
 	"values": [
-		"flat:overworld",
-		"flat:the_nether"
+		"flat_bedrock:overworld",
+		"flat_bedrock:the_nether"
 	]
 }
