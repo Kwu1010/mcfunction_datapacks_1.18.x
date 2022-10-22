@@ -1,3 +1,6 @@
 {
-	"values": ["flat:tick"]
+	"values": [
+		"flat:overworld",
+		"flat:nether"
+	]
 }
