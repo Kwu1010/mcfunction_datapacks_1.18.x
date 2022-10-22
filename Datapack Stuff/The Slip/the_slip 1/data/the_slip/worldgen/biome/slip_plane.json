@@ -1,0 +1,52 @@
+{
+	"depth": 0.1,
+	"scale": 0.1,
+	"precipitation": "none",
+	"category": "the_end",
+	"temperature": 0.8,
+	"temperature_modifier": "none",
+	"downfall": 0.5,
+	"player_spawn_friendly": false,
+	"creature_spawn_probability": 0.0,
+
+	"effects": {
+		"sky_color": 0,
+		"fog_color": 0,
+		"water_color": 0,
+		"water_fog_color": 0,
+		"grass_color": 4671303,
+		"foliage_color": 4671303,
+		"grass_color_modifier": "none",
+		"particle": {
+			"options": {
+				"type": "minecraft:ash"
+			},
+			"probability": 0.0005
+		},
+		"music": {
+			"sound": "minecraft:music.nether.basalt_deltas",
+			"min_delay": 0,
+			"max_delay": 100,
+			"replace_current_music": true
+		},
+		"ambient_sound": "minecraft:ambient.basalt_deltas.loop",
+		"additions_sound": {
+			"sound": "minecraft:ambient.basalt_deltas.additions",
+			"tick_chance": 0
+		},
+		"mood_sound": {
+			"sound": "minecraft:ambient.basalt_deltas.mood",
+			"tick_delay": 2000,
+			"block_search_extent": 8,
+			"offset": 2.0
+		}
+	},
+
+	"surface_builder": "minecraft:grass",
+
+	"carvers": {},
+	"features": [],
+	"starts": [],
+	"spawners": {},
+	"spawn_costs": {}
+}

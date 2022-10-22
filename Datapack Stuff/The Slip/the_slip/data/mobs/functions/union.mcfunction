@@ -1,0 +1,43 @@
+# Prowler spawns as two entities, function keeps the Prowler's parts together.
+# Maximum simultaneously functioning Prowler count: 40
+
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=1..1}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=1..1}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=2..2}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=2..2}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=3..3}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=3..3}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=4..4}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=4..4}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=5..5}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=5..5}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=6..6}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=6..6}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=7..7}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=7..7}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=8..8}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=8..8}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=9..9}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=9..9}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=10..10}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=10..10}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=11..11}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=11..11}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=12..12}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=12..12}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=13..13}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=13..13}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=14..14}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=14..14}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=15..15}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=15..15}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=16..16}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=16..16}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=17..17}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=17..17}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=18..18}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=18..18}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=19..19}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=19..19}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=20..20}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=20..20}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=21..21}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=21..21}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=22..22}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=22..22}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=23..23}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=23..23}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=24..24}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=24..24}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=25..25}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=25..25}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=26..26}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=26..26}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=27..27}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=27..27}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=28..28}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=28..28}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=29..29}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=29..29}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=30..30}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=30..30}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=31..31}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=31..31}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=32..32}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=32..32}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=33..33}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=33..33}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=34..34}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=34..34}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=35..35}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=35..35}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=36..36}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=36..36}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=37..37}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=37..37}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=38..38}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=38..38}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=39..39}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=39..39}] ^ ^ ^-0.00000001 facing entity @s
+execute as @e[type=armor_stand,tag=prowler,tag=body,scores={prowlercount=40..40}] at @s run tp @e[type=armor_stand,tag=prowler,tag=arms,scores={prowlercount=40..40}] ^ ^ ^-0.00000001 facing entity @s
